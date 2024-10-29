@@ -36,13 +36,13 @@ A função `funq2` processa uma lista de inteiros e gera uma nova lista com as s
 
 ### Exemplos de Uso
 
-- **Entrada**: sum $ funq2 [2, 5, 8, 13]
+- **Entrada**: `sum $ funq2 [2, 5, 8, 13]`
 
-- **Saída**: 12
+- **Saída**: `12`
 
 - **Explicação**:
-Primeiro, aplicamos funq2 [2, 5, 8, 13], que gera a lista [3, 0, 9, 0].
-Em seguida, sum calcula a soma dos elementos dessa lista: 3 + 0 + 9 + 0 = 12.
+Primeiro, aplicamos `funq2 [2, 5, 8, 13]`, que gera a `lista [3, 0, 9, 0]`.
+Em seguida, sum calcula a soma dos elementos dessa lista: `3 + 0 + 9 + 0 = 12`.
 
 - **Entrada**: `funq2 [1, 2, 3, 4]`
   - **Saída**: `[0, 3, 0, 5]`
