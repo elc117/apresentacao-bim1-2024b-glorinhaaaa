@@ -53,4 +53,4 @@ A função `funq2` processa uma lista de inteiros e gera uma nova lista com as s
     - `4` é par → `4 + 1 = 5`
 
 ## Conclusão
-A função `funq2` é útil para transformar listas de inteiros, facilitando a manipulação de dados numéricos com base em condições simples. Se você precisar de mais informações ou exemplos, fique à vontade para perguntar!
+A função `funq2` é útil para transformar listas de inteiros, facilitando a manipulação de dados numéricos com base em condições simples.
